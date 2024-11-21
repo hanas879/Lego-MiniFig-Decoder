@@ -12,19 +12,6 @@ const figtable = {
     "Tricertops Costume Fan": [68,69,102, "./images/figs/Tricertops_Costume_Fan.png"],
     "Black Falcon Gamer Girl": [69,70,103, "./images/figs/Falcon_Gamer_Girl.png"],
     "Vampire Knight": [70,71,104, "./images/figs/Vampire_Knight.png"],
-    //NYE
-    "Dwarf Barbarian": [54,0,0, ""],
-    "Gith Warlock": [57,0,0, ""],
-    "Tiefling Sorcerer": [51,0,0, ""],
-    "Dragonborn Paladin": [55,0,0, ""],
-    "Halfling Druid": [53,0,0, ""],
-    "Aarakocra Ranger": [56,0,0, ""],
-    "Mind Flayer": [58,0,0, ""],
-    "Strahd von Zarovich": [60,0,0, ""],
-    "Elf Bard": [52,0,0, ""],
-    "The Lady of Pain": [59,0,0, ""],
-    "Szass Tam": [62,0,0, ""],
-    "Tasha the Witch Queen": [61,0,0, ""],
 }
 
 document.getElementById("fig-table").innerHTML += `
